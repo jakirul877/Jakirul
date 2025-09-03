@@ -1,3 +1,3 @@
 # Jakirul
 first git repository
-Author-jakirul
+Author-jakirul islam(jack)
